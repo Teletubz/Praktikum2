@@ -8,4 +8,4 @@ panggil method setter dan getter
 
 tampilan hasil akhirnya
 
-![image 1]screenshot/ss.png
+![img]screenshot/ss.png
