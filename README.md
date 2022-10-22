@@ -1,6 +1,6 @@
 # Praktikum2
 
-1. Mendeklarasikan claas person dengan atribut Nama, Jenis Kelamin dan Umur
+1. Mendeklarasikan class person dengan atribut Nama, Jenis Kelamin dan Umur
 dilengkapi dengan access modifier
 
 
